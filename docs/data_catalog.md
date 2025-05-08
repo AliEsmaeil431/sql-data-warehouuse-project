@@ -26,8 +26,8 @@ metric.
 ##
 
 2. **Gold.dim_product**
-● Purpose: Provides information about the products and their attributes.
-● Column:
+- ***Purpose***: Provides information about the products and their attributes.
+- ***Column***:
 
 |Column Name | Date Type | Description |
 |------------|-----------|-------------|
@@ -46,8 +46,8 @@ metric.
 ##
 
 3. **Gold.fact_sales**
-● Purpose: Stores transactional sales data for analytical purposes.
-● Columns:
+- ***Purpose***: Stores transactional sales data for analytical purposes.
+- ***Columns***:
 
 |Column Name | Date type | Description |
 |------------|-----------|-------------|
