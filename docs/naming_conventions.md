@@ -70,4 +70,3 @@ This document outlines the naming conventions used for schemas, tables, views, c
   - `<column_name>`: Descriptive name indicating the column's purpose.  
   - Example: `dwh_load_date` → System-generated column used to store the date when the record was loaded.
  
-## **Stored Procedure**
