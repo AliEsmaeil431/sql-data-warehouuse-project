@@ -7,8 +7,8 @@ reporting use cases. It consists of dimension tables and fact tables for specifi
 metric.
 
 1. **gold.dim_customers**
--**Purpose: Stores customer details enriched with demographic and geographic.
--**columns:
+- ***Purpose***: Stores customer details enriched with demographic and geographic.
+- ***columns***:
 
 |Column Name | Data Type | Description|
 |----------- |-----------|------------|
