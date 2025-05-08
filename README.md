@@ -13,7 +13,7 @@ This project involves:
 4. ***Analytics & Reporting***: Creating SQL-based and dashboards for actionable insight.
 
 ## Data Architecture##
-(docs/Data_architecture.png)
+![The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:](docs/Data_architecture.png)
 
 ## Project Requirements
 
