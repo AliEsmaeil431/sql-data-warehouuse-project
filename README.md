@@ -13,7 +13,7 @@ This project involves:
 4. ***Analytics & Reporting***: Creating SQL-based and dashboards for actionable insight.
 
 ## Data Architecture##
-![Data Screenshot]([C:\Users\f\Downloads\Warehouse\Data_architecture.png](https://github.com/AliEsmaeil431/sql-data-warehouuse-project/blob/main/docs/Data_architecture.png))
+![Alter text](docs/Data_architecture.png)
 
 ## Project Requirements
 
