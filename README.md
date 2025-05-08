@@ -12,8 +12,9 @@ This project involves:
 3. ***Data Modeling***: Developing fact and dimension tables optimized for analytical queries.
 4. ***Analytics & Reporting***: Creating SQL-based and dashboards for actionable insight.
 
-## Data Architecture##
-![The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:](docs/Data_architecture.png)
+## Data Architecture
+The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+![alter text](docs/Data_architecture.png)
 
 ## Project Requirements
 
