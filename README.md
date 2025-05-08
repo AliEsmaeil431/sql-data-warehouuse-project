@@ -12,6 +12,9 @@ This project involves:
 3. ***Data Modeling***: Developing fact and dimension tables optimized for analytical queries.
 4. ***Analytics & Reporting***: Creating SQL-based and dashboards for actionable insight.
 
+## Data Architecture##
+![Data Screenshot]("C:\Users\f\Downloads\Warehouse\Data_architecture.png")
+
 ## Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
