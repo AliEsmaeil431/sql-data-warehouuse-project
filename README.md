@@ -13,7 +13,7 @@ This project involves:
 4. ***Analytics & Reporting***: Creating SQL-based and dashboards for actionable insight.
 
 ## Data Architecture##
-![Data Screenshot]("C:\Users\f\Downloads\Warehouse\Data_architecture.png")
+![Data Screenshot](C:\Users\f\Downloads\Warehouse\Data_architecture.png)
 
 ## Project Requirements
 
