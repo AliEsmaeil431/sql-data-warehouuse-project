@@ -14,7 +14,7 @@ This project involves:
 
 ##
 
-## Data Architecture
+## **Data Architecture**
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 ![alter text](docs/Data_architecture.png)
 
