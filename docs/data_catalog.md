@@ -23,3 +23,8 @@ birthdate | DATE | The date of birth of customer, formatted as YYYY-MM-DD (e.g, 
 create_date | DATE | The date and time when the customer record was created in the system
 
 
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data     | Data     |
+| Row 2    | Data     | Data     |
+
